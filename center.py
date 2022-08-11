@@ -20,6 +20,6 @@ register(
 
     ],
     [],
-    center_elements)
+    center_elements) 
 
 main()
